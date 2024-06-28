@@ -39,3 +39,16 @@ For this lab, we were assigned group ‘B’.
 ![3](https://github.com/JuanCantu1/Microcontrollers/assets/109363196/3c8ad0a6-9c8e-4918-a4e1-ae973e77740f)
 
 
+
+![1](https://github.com/JuanCantu1/Microcontrollers/assets/109363196/84ca100f-75b7-4312-a0a9-28732ad32103)
+
+![2](https://github.com/JuanCantu1/Microcontrollers/assets/109363196/3ee3b2eb-c77f-407d-91c2-4780bf2919e0)
+
+![3](https://github.com/JuanCantu1/Microcontrollers/assets/109363196/a60d8c4b-bdc9-41a8-98d0-0ae197aee71a)
+
+
+
+
+
+
+
