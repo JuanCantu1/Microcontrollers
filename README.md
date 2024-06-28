@@ -29,3 +29,5 @@ period on the specified pin. Table 1, below shows the projects with their assign
 For this lab, we were assigned group ‘B’.
 
 ![part1](https://github.com/JuanCantu1/Microcontrollers/assets/109363196/c23029b4-36ed-4746-81ac-3b7b5ad022ef)
+
+![part1](https://github.com/JuanCantu1/Microcontrollers/assets/109363196/23ee3744-e99e-4d48-b9e9-1a8c74012f93)
